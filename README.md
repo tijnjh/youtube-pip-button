@@ -2,7 +2,7 @@
 
 A small userscript to add a picture-in-picture button to the YouTube video player toolbar
 
-![example](https://github.com/idkjonas/youtube-pip-button/raw/main/example.png)
+![example](https://github.com/tijnjh/youtube-pip-button/raw/main/example.png)
 
 ## Installation
 
